@@ -12,7 +12,7 @@ class DoctorImageAndText extends StatelessWidget {
       alignment: Alignment.topCenter,
       children: [
         Opacity(
-          opacity: 0.6,
+          opacity: 0.5,
           child: SvgPicture.asset(
             'assets/svgs/doctor_logo_with_low_opacity.svg',
           ),
