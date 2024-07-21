@@ -1,4 +1,3 @@
-import 'package:doctor_flutter_app/core/theming/colors.dart';
 import 'package:doctor_flutter_app/core/theming/text_strings.dart';
 import 'package:doctor_flutter_app/core/widgets/spacer.dart';
 import 'package:doctor_flutter_app/features/login/ui/widgets/remember_and_forgot_password.dart';

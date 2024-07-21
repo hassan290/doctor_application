@@ -1,5 +1,4 @@
 import 'package:doctor_flutter_app/core/helpers/extensions.dart';
-import 'package:doctor_flutter_app/core/theming/colors.dart';
 import 'package:doctor_flutter_app/features/onboarding/widgets/doctor_image_and_text.dart';
 import 'package:doctor_flutter_app/features/onboarding/widgets/doctor_logo.dart';
 import 'package:doctor_flutter_app/features/onboarding/widgets/get_started_button.dart';
